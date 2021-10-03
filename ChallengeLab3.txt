@@ -1,4 +1,6 @@
+FOURTH TASK 
 
+gcloud sql connect griffin-dev-db --user=root
 
 FIFTH TASK -
 
